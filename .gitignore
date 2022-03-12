@@ -49,3 +49,10 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
+# data
+
+alpha_nlu/aclImdb/
+alpha_nlu/aclImdb_v1.tar.gz
+alpha_nlu/metadata.tsv
+alpha_nlu/vectors.tsv
