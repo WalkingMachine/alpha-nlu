@@ -1,5 +1,5 @@
 """
-This script use AI to identify meaning of word to each other.
+This script use AI to identify meaning of word to each other. This script is not supposed to be a Node
 
 It use word embeddings.
 
